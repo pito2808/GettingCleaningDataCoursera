@@ -119,4 +119,7 @@ write.table(DFXYU1_volunteers,
             sep = ",",
             col.names = colnames(DFXYU1_volunteers))
 
+# reorder leftmost column
+rownames(DFXYU1_volunteers) <- NULL
+
 head(DFXYU1_volunteers , n = 15)
