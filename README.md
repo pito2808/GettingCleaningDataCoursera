@@ -1,4 +1,4 @@
-GettingCleaningDataCoursera
+README
 ===========================
 
 #this directory includes the following files:
@@ -29,7 +29,7 @@ loaded via a namespace (and not attached):
 
 # R script logic
 1. the script will download data from the url.
-2.it create a directory called 'data' if it doesn't exist
+2. it create a directory called 'data' if it doesn't exist
 3. unzip the zip file
 4. Merge the training and the test set
 5. extract the mean and std for each measurement
@@ -40,21 +40,15 @@ loaded via a namespace (and not attached):
 
 # RAW DATA and its source
 * zip file is loaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-* the zip file includes this following we use for transformation:  
+* the zip file includes this following files we use for transformation:  
+
 1. 'README.txt'
-
-2. 'features_info.txt': Shows information about the variables used on the feature vector.
-
+2. 'features_info.txt': Shows information about the variables used on the feature vector. 
 3. 'features.txt': List of all features.
-
-4. 'activity_labels.txt': Links the class labels with their activity name.
-
+4. 'activity_labels.txt': Links the class labels with their activity name. 
 5. 'train/X_train.txt': Training set.
-
 6. 'train/y_train.txt': Training labels.
-
 7. 'test/X_test.txt': Test set.
-
 8. 'test/y_test.txt': Test labels.
 
 
