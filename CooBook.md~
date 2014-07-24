@@ -42,7 +42,7 @@ std(): Standard deviation
 except volunteers and activity variables  .
 All variables are normalized[-1,1]  
 
-** volunteers**  
+**volunteers**  
     each integer maps one volunteers  
     type integer  1..30  
 

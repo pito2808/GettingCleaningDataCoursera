@@ -42,14 +42,14 @@ std(): Standard deviation
 except volunteers and activity variables  .
 All variables are normalized[-1,1]  
 
-** volunteers**  
-    each integer maps one volunteers  
-    type integer  1..30  
+**volunteers**  
+>    each integer maps one volunteers  
+>    type integer  1..30  
 
 **activity**  
-    activity label  type factor  
-	    WALKING    
-            WALKING_UPSTAIRS    
+>    activity label  type factor  
+>>    WALKING    
+    WALKING_UPSTAIRS    
             WALKING_DOWNSTAIRS  
             SITTING  
             STANDING  
