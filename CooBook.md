@@ -43,8 +43,8 @@ except volunteers and activity variables  .
 All variables are normalized[-1,1]  
 
 **volunteers**  
->    each integer maps one volunteers  
->    type integer  1..30  
+&nbsp;&nbsp;&nbsp;&nbsp;    each integer maps one volunteers  
+&nbsp;&nbsp;&nbsp;&nbsp;    type integer  1..30  
 
 **activity**  
 >    activity label  type factor  
