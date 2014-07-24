@@ -37,6 +37,7 @@ loaded via a namespace (and not attached):
 7. label the data set with descriptive variable names.
 8. aggregate the average of eache activity and subject variables.
 9. write tidy data set to file
+10. output tidy data first rows
 
 # RAW DATA and its source
 * zip file is loaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
